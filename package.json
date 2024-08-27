@@ -1,8 +1,11 @@
 {
   "name": "redux-toolkit-todo",
+  "description": "simple todo application in react with redux toolkit",
+  "repository": "https://github.com/mohitagrawal939/redux-toolkit-todo.git",
   "private": true,
   "version": "0.0.1",
   "type": "module",
+  "author": "mohitagrawal939",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
