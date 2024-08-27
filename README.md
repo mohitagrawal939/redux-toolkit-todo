@@ -1,8 +1,15 @@
-# React + Vite
+# React redux toolkit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The installation is simple just clone the repository and execute below
 
-Currently, two official plugins are available:
+```
+npm i
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+npm run dev
+```
+
+It will launch application on http://localhost:5173
+
+Just add something in input field and click on add todo and you should be abel to see your todo's getting added into the list and will be dispalyed on bottom part.
+
+> For any assistance do contact me via [hello@mohitagrawal.xyz](mailto:hello@mohitagrawal.xyz) I will try to help you out.
